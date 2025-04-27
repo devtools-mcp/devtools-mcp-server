@@ -1,0 +1,6 @@
+// vscode setting for auto format and 2 spaces for indentation
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "editor.tabSize": 2,
+}

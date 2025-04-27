@@ -1,0 +1,13 @@
+### Deno ###
+/.idea/
+
+/node_modules
+
+.env
+*.orig
+*.pyc
+*.swp
+
+
+### Devtools mcp server ###
+devtools-mcp-server
